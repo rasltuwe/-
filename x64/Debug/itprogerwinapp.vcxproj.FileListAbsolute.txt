@@ -1,0 +1,3 @@
+C:\Users\ulana\source\repos\itprogerwinapp\itprogerwinapp\x64\Debug\itprogerwinapp.vcxproj.AssemblyReference.cache
+C:\Users\ulana\source\repos\itprogerwinapp\itprogerwinapp\x64\Debug\itprogerwinapp.MyForm.resources
+C:\Users\ulana\source\repos\itprogerwinapp\itprogerwinapp\x64\Debug\itprogerwinapp.vcxproj.GenerateResource.cache
